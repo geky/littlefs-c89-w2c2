@@ -1,0 +1,6 @@
+[submodule "littlefs"]
+	path = littlefs
+	url = git@github.com:littlefs-project/littlefs.git
+[submodule "w2c2"]
+	path = w2c2
+	url = git@github.com:turbolent/w2c2.git
